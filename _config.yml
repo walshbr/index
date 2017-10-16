@@ -16,7 +16,7 @@
 title: Roger Whitson
 email: rogerwhitson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- The professional site of Roger Whitson.
+Nineteenth-Century Studies, media archaeology, Steampunk, William Blake
 baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://www.rogerwhitson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RogerWhitson
